@@ -1,0 +1,42 @@
+palace restaurant
+-->hamburger
+----->meal additions
+sherwood to go
+-->hamburger
+----->choice of burger
+--------->beef burger
+corner grocers
+-->hamburger
+----->choice of meat preparation
+--------->well done
+panini grill
+-->beef burger
+----->pick one
+--------->single (6 oz)
+cozy corner
+-->beef burger
+----->pick one
+--------->sandwich
+america's burgers & wraps
+-->beef burger
+----->burger extras
+space 62 market
+--> hamburger
+----->protein add-ons
+midtown diner & restaurant
+-->hamburger club triple decker
+----->choice of meat preparation
+--------->medium rare
+ritz diner
+-->american style burger
+----->pick one
+--------->regular
+trend diner
+-->john wayne burger
+----->burger add-ons
+cafe luka
+-->california burger
+----->burger toppings
+avenue diner
+-->greek burger
+----->choice of condiments
