@@ -1,0 +1,3 @@
+Assumptions:
+1.Input data file is assumed to be in 'csv' format.
+2.Line endings are assumed to be terminated by a carriage return.
