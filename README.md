@@ -1,2 +1,2 @@
 # Pre-Interview Problems
-Tasks given in PreInterview problem solving rounds
+Interview problem solving rounds.
